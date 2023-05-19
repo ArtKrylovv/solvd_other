@@ -1,0 +1,8 @@
+/out
+/.idea
+*.iml
+/logs
+/src/main/resources/sample.txt
+/target
+
+
